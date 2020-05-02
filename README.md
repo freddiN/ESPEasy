@@ -14,4 +14,4 @@ NICHT nach 2 Sekunden Drücken aufhören: Solange gedrückt halten bis FlashESP8
 ## TODOs
 - flashen: ESP8266, normal, 1024kb
 - beim flashen direkt SSID und Wlan pw übergeben
-- Zeitzone/DST korrigieren
+- Zeitzone/DST korrigieren (Tools, Advanced)
