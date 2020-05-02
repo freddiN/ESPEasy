@@ -6,10 +6,10 @@ https://github.com/letscontrolit/ESPEasy/releases
 NICHT nach 2 Sekunden Drücken aufhören: Solange gedrückt halten bis FlashESP8266.exe anfängt zu flashen
 
 ## Pins
-Pfeil = 3,3V
-TX
-RX
-GND (am nähsten am Knopf)
+* Pfeil = 3,3V
+* TX
+* RX
+* GND (am nähsten am Knopf)
 
 ## TODOs
 - flashen: ESP8266, normal, 1024kb
